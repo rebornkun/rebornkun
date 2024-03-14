@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer and Designer
 ----------------------
 
-i have been coding for 2+years, my Goal is to be known by the world as a top tier tech personnel with a Leading Tech company as proof.
+i have been coding for 4+years, my Goal is to be known by the world as a top tier tech personnel with a Leading Tech company as proof.
 
 *   🌍  I'm based in Rivers state, Nigeria
 *   🖥️  See my portfolio at [My Portfolio](http://rebornkun.github.io/Oluyoh_Okiemute/)
