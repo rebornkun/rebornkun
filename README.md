@@ -9,7 +9,7 @@ i have been coding for 4+years, my Goal is to be known by the world as a top tie
 *   🌍  I'm based in Rivers state, Nigeria
 *   🖥️  See my portfolio at [My Portfolio](http://rebornkun.github.io/Oluyoh_Okiemute/)
 *   ✉️  You can contact me at [oluyohokiemute@gmail.com](mailto:oluyohokiemute@gmail.com)
-*   🧠  I'm learning Node Js
+*   🧠  I'm learning Mobile Development
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  lets keep in touch!<a href="https://www.twitter.com/DOluyoh?t=z9v3KDZJfk8TvI0vHA9x-w&s=09" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/DOluyoh?t=z9v3KDZJfk8TvI0vHA9x-w&s=09?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
